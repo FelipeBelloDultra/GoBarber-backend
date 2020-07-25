@@ -7,5 +7,6 @@ temp/
 .env
 ormconfig.json
 
+yarn-error.log
 tmp/*
 !tmp/.gitkeep
